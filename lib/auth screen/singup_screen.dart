@@ -6,6 +6,7 @@ import 'package:chat_app/auth%20screen/home_screen.dart';
 import 'package:chat_app/auth%20service/authentication.dart';
 
 import 'package:flutter/material.dart';
+//signup page with aut
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({super.key});
