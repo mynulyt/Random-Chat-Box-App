@@ -4,6 +4,7 @@ import 'package:chat_app/auth%20service/authentication.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+//Chating page provid
 
 class ChatPage extends StatefulWidget {
   final String name;
