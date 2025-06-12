@@ -6,6 +6,7 @@ import 'package:chat_app/auth%20screen/singup_screen.dart';
 import 'package:chat_app/auth%20service/authentication.dart';
 
 import 'package:flutter/material.dart';
+//login page with auth
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
